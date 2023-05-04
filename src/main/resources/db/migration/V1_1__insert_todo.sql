@@ -1,0 +1,15 @@
+INSERT INTO todo (id, created, name, deadline, priority) VALUES (nextval('todo_id_seq'), '2022-01-03 05:34:02', 'teszt1', '2023-05-10 15:34:02', 'LOW');
+INSERT INTO todo (id, created, name, deadline, priority) VALUES (nextval('todo_id_seq'), '2022-02-03 05:34:02', 'teszt2', '2023-05-11 15:34:02', 'MEDIUM');
+INSERT INTO todo (id, created, name, deadline, priority) VALUES (nextval('todo_id_seq'), '2022-03-03 05:34:02', 'teszt3', '2023-05-12 15:34:02', 'HIGH');
+INSERT INTO todo (id, created, name, deadline, priority) VALUES (nextval('todo_id_seq'), '2022-04-03 05:34:02', 'teszt4', '2023-05-13 15:34:02', 'LOW');
+INSERT INTO todo (id, created, name, deadline, priority) VALUES (nextval('todo_id_seq'), '2022-05-03 05:34:02', 'teszt5', '2023-05-14 15:34:02', 'MEDIUM');
+INSERT INTO todo (id, created, name, deadline, priority) VALUES (nextval('todo_id_seq'), '2022-06-03 05:34:02', 'teszt6', '2023-05-15 15:34:02', 'HIGH');
+INSERT INTO todo (id, created, name, deadline, priority) VALUES (nextval('todo_id_seq'), '2022-07-03 05:34:02', 'teszt7', '2023-05-16 15:34:02', 'LOW');
+INSERT INTO todo (id, created, name, deadline, priority) VALUES (nextval('todo_id_seq'), '2022-08-03 05:34:02', 'teszt8', '2023-05-17 15:34:02', 'MEDIUM');
+INSERT INTO todo (id, created, name, deadline, priority) VALUES (nextval('todo_id_seq'), '2022-09-03 05:34:02', 'teszt9', '2023-05-18 15:34:02', 'HIGH');
+INSERT INTO todo (id, created, name, deadline, priority) VALUES (nextval('todo_id_seq'), '2022-10-03 05:34:02', 'teszt10', '2023-05-19 15:34:02', 'LOW');
+INSERT INTO todo (id, created, name, deadline, priority) VALUES (nextval('todo_id_seq'), '2022-11-03 05:34:02', 'teszt11', '2023-05-20 15:34:02', 'MEDIUM');
+INSERT INTO todo (id, created, name, deadline, priority) VALUES (nextval('todo_id_seq'), '2022-12-03 05:34:02', 'teszt12', '2023-05-21 15:34:02', 'HIGH');
+INSERT INTO todo (id, created, name, deadline, priority) VALUES (nextval('todo_id_seq'), '2023-01-03 05:34:02', 'teszt13', '2023-05-22 15:34:02', 'LOW');
+INSERT INTO todo (id, created, name, deadline, priority) VALUES (nextval('todo_id_seq'), '2023-02-03 05:34:02', 'teszt14', '2023-05-23 15:34:02', 'MEDIUM');
+INSERT INTO todo (id, created, name, deadline, priority) VALUES (nextval('todo_id_seq'), '2023-03-03 05:34:02', 'teszt15', '2023-05-24 15:34:02', 'HIGH');
